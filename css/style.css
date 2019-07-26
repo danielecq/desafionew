@@ -1,0 +1,50 @@
+.seccionSelect {
+  float: left;
+  margin-right: 10px; }
+
+.select {
+  width: 150px; }
+
+.seccionBotones {
+  margin-top: 40px;
+  margin-left: 50px; }
+
+.margen {
+  margin-right: 60px; }
+
+body {
+  background-color: #D7E2F1; }
+
+.boton {
+  background-color: #FFF;
+  border: 2px solid #677B9E;
+  color: #677B9E; }
+
+.cont_card {
+  text-align: center;
+  height: 64px; }
+
+.footer_card {
+  background-color: #F6F8FA;
+  padding: 10px;
+  text-align: center; }
+
+.footer_card span {
+  font-size: 18px;
+  padding: 5px; }
+
+.card {
+  float: left;
+  margin-right: 20px;
+  margin-top: 20px;
+  width: 40%;
+  min-width: 274px; }
+
+@media only screen and (max-width: 767px) {
+  .card {
+    width: 100%; } }
+.ultima {
+  width: 82%;
+  margin-bottom: 20px; }
+
+/*# sourceMappingURL=style.css.map */
